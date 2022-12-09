@@ -6,7 +6,7 @@
     "cookie-session": "^2.0.0-beta.3",
     "cors": "^2.8.4",
     "dotenv": "^5.0.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "lodash.camelcase": "^4.3.0",
     "lodash.mapkeys": "^4.6.0",
     "lodash.snakecase": "^4.1.1",
